@@ -4,4 +4,4 @@
 
 # How to join
 
-Please see ![configuration](https://github.com/cunnydev/configuration)
+Please see [configuration](https://github.com/cunnydev/configuration)
